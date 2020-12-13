@@ -10,3 +10,8 @@ In my spare time, I enjoy cycling 🚴, learning foreign languages 🌎, photogh
 💬 Ask me about anything!! <br />
 😄 Pronouns: he/his <br />
 ⚡ Fun fact: I can sing in more than 20 languages! <br />
+
+### Tech Stack
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+
