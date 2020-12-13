@@ -1,4 +1,4 @@
-### Hi there, I'm Edward, a Hong Konger🇭🇰 based in London 👋
+### Hi there, I'm Edward, a Hong Konger 🇭🇰 based in London 👋
 
 Full Stack Software Engineer based in London. Experienced in Node, Express, MongoDB, React, React Native and TypeScript. I'm also an SEO copywriting ninja! 🐱‍👤
 
