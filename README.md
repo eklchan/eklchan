@@ -4,7 +4,7 @@ Full Stack Software Engineer based in London. Experienced in Node, Express, Mong
 
 In my spare time I enjoy cycling, learning foreign languages, photoghraphy, hiking and cooking. 
 
-🔭 I’m currently working on our website www.fairpointnews.com
+🔭 I’m currently working on our website www.fairpointnews.com 
 🌱 I’m currently learning Redux, Vue and Flutter
 👯 I’m looking to collaborate on anything, in particularly something related to Mobile UI!
 💬 Ask me about anything!!
