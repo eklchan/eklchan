@@ -2,7 +2,7 @@
 
 Full Stack Software Engineer based in London. I'm also an SEO copywriting ninja! 🐱‍👤
 
-In my spare time, I enjoy cycling 🚴, learning foreign languages 🌎, photoghraphy 📷, hiking 🥾 and cooking 🍚. 
+In my spare time, I enjoy cycling 🚴, learning foreign languages 🌎, photoghraphy 📷, hiking 🥾 and astronomy 🌌. 
 
 🔭 I’m currently working on our website www.fairpointnews.com and the new iteration of www.GCSE.com <br />
 🌱 I’m currently learning Redux and Flutter <br />
