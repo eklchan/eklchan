@@ -1,11 +1,13 @@
 ### Hi there, I'm Edward, a Hong Konger :hong_kong: based in London 👋
 
-Full Stack Software Engineer based in London. I'm also an SEO copywriting ninja! 🐱‍👤
+Full Stack Software Engineer based in London contracted to [**Planes Studio**](https://www.planes.studio/). I'm also formerly an SEO copywriting ninja! 🐱‍👤
 
-In my spare time, I enjoy cycling 🚴, learning foreign languages 🌎, photoghraphy 📷, hiking 🥾 and astronomy 🌌. 
+In my spare time, I enjoy cycling 🚴, learning foreign languages 🌎, photoghraphy 📷, hiking 🥾 and astronomy 🌌. <br/>
 
-🔭 I’m currently working on the new iteration of www.GCSE.com <br />
-🌱 I’m currently learning Hindi/Urdu, Redux and Flutter <br />
+A passion for developing in React, Vue, Python, Solidity & all things Web3.<br/>
+
+🔭 Past Projects include: [**TokenTraxx**](https://www.tokentraxx.com/), [**Slerp**](https://apps.apple.com/th/app/slerp/id1199030688), [**Trilogy**](https://www.trilogyjewellers.com/), [**2Men**](https://2men.it/) & [**SkinRocks**](https://app.skinrocks.com/) <br />
+🌱 I’m currently learning Hindi/Urdu and Flutter <br />
 😄 Pronouns: he/his <br />
 
 ### Tech Stack
